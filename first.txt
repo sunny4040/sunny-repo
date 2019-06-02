@@ -18,4 +18,8 @@ jira integration
 >>>>>>> SMAR 15
 =======
 again
+<<<<<<< HEAD
 >>>>>>> SMAR-16
+=======
+again new
+>>>>>>> SMART-16
