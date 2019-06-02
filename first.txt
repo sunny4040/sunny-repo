@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 first chan
 jira integrati
@@ -10,3 +11,7 @@ again new
 =======
 jbhbj
 >>>>>>> DEM-4
+=======
+first chan
+jira integration
+>>>>>>> SMAR 15
