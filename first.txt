@@ -1,8 +1,8 @@
 
 first chan
-jira integration
+jira integrati
 <<<<<<< HEAD
->>>>>>> SMAR 15
-=======
-again
 >>>>>>> SMAR-16
+=======
+again new
+>>>>>>> SMART-16
