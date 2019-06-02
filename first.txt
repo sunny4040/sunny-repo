@@ -22,4 +22,8 @@ again
 >>>>>>> SMAR-16
 =======
 again new
+<<<<<<< HEAD
 >>>>>>> SMART-16
+=======
+jbhbj
+>>>>>>> DEM-4
