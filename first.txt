@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-first change
+
+>>>>>>> SMAR-16
 =======
 first chan
 jira integration
-again
->>>>>>> SMAR-16
+>>>>>>> SMAR 15
