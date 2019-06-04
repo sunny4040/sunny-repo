@@ -5,6 +5,10 @@ modified A
 
 this is  conflicat test
 
+<<<<<<< HEAD
 this is conflicat test A
 
 this is conflicat by A
+=======
+this is conflicat test B New
+>>>>>>> conflicat by B
